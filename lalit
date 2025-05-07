@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahadev Electronics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #007bff;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        .contact {
+            margin-top: 30px;
+        }
+        .whatsapp {
+            color: green;
+            font-weight: bold;
+        }
+        .gallery {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mahadev Electronics</h1>
+        <p>ठंडी हवा, गर्मी से राहत!</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>हमारे प्रोडक्ट्स</h2>
+            <table>
+                <tr>
+                    <th>उत्पाद का नाम</th>
+                    <th>विशेषताएं</th>
+                    <th>मूल्य (₹)</th>
+                </tr>
+                <tr>
+                    <td>Symphony Desert Air Cooler</td>
+                    <td>70L, कम बिजली खर्च, शक्तिशाली फैन</td>
+                    <td>₹9,999 से शुरू</td>
+                </tr>
+                <tr>
+                    <td>Bajaj Tower Cooler</td>
+                    <td>स्टाइलिश डिजाइन, रिमोट कंट्रोल</td>
+                    <td>₹6,499 से शुरू</td>
+                </tr>
+                <tr>
+                    <td>Crompton Personal Cooler</td>
+                    <td>कॉम्पैक्ट, मोबाइल फ्रेंडली</td>
+                    <td>₹4,299 से शुरू</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="about">
+            <h2>हमारे बारे में</h2>
+            <p>
+                Mahadev Electronics पिछले 10 वर्षों से ग्राहकों को विश्वसनीय और टिकाऊ इलेक्ट्रॉनिक उत्पाद प्रदान कर रहा है। हमारा लक्ष्य है – "हर घर में ठंडक और आराम पहुंचे, वो भी सस्ती कीमत में।"
+            </p>
+        </section>
+
+        <section class="contact">
+            <h2>संपर्क करें</h2>
+            <p>📞 फोन: 9414685564</p>
+            <p class="whatsapp">💬 WhatsApp: <a href="https://wa.me/919414685564" target="_blank">https://wa.me/919414685564</a></p>
+            <p>📍 पता: [आपका दुकान का पता]</p>
+            <p>⏰ समय: सुबह 9 बजे से रात 9 बजे तक (सप्ताह में 7 दिन खुला)</p>
+        </section>
+
+        <section class="gallery">
+            <h2>फोटो गैलरी</h2>
+            <p>यहाँ आपकी दुकान या प्रोडक्ट्स की तस्वीरें जोड़ी जा सकती हैं।</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Mahadev Electronics. सभी अधिकार सुरक्षित।</p>
+    </footer>
+</body>
+</html>
